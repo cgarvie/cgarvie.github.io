@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fkacam</title>
+    <description>Some thoughts on startups, health and medicine, reasoning, psychology, cryptography, and netsec.
+</description>
+    <link>http://fkacam.com/</link>
+    <atom:link href="http://fkacam.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 09 Jul 2015 12:27:47 +0700</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2015 12:27:47 +0700</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Helminthic Therapy User Error</title>
+        <description>&lt;p&gt;Parasites is a loaded term and refers to a large number of species, a subset of which are not ‘bad’ for us for the same reason that the pop-sci good/bad bacteria terminology creates a false and dangerous dichotomy; the correct way to think about the issue is in terms of dysbiosis.&lt;/p&gt;
+
+&lt;p&gt;If you are considering helminthic therapy or are an active user, you probably tumbled down the rabbit hole by learning about what an &lt;a href=&quot;https://en.wikipedia.org/wiki/Autoimmune_disease&quot;&gt;autoimmune disease&lt;/a&gt; is, then about &lt;a href=&quot;https://en.wikipedia.org/wiki/Diseases_of_affluence&quot;&gt;diseases of affluence&lt;/a&gt;, then about the &lt;a href=&quot;https://en.wikipedia.org/wiki/Hygiene_hypothesis&quot;&gt;hygiene hypothesis&lt;/a&gt;, then finally about &lt;a href=&quot;https://en.wikipedia.org/wiki/Helminthic_therapy&quot;&gt;helminthic therapy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you haven’t already, you should read all of those Wikipedia pages.&lt;/p&gt;
+
+&lt;p&gt;These are theories, and unproven, but they make sense. The reasoning is sound and in the most conservative case we can stop being so afraid of mostly benign parasites and can make an argument for increased zoological contact in order to train one’s immune system.&lt;/p&gt;
+
+&lt;p&gt;The problem is that this evolutionary approach tends to fly out the window as soon as treatment decisions have to be made. People begin helminthic therapy with very rational reasons, and then quickly become very irrational, as though the worms have migrated to their brains and seized control, focusing single-mindedly on growing their wiggle.&lt;/p&gt;
+
+&lt;p&gt;Essentially, the majority of helminthic therapy users end up using helminths in the same manner that you would use a drug: increasing dosage gradually until side effects make treatment unsustainable, at which point they are, in my opinion, way past a defensible headcount.&lt;/p&gt;
+
+&lt;p&gt;First 25 worms, then 50, then 100, then 200, then 400… until the user has to supplement iron to avoid becoming anemic.&lt;/p&gt;
+
+&lt;p&gt;In most cases of dysfunctional immune systems, helminths are simply one missing piece of the puzzle.&lt;/p&gt;
+
+&lt;p&gt;But helminthic therapy none-the-less becomes the treatment of choice, partly because people generally have a magic-bullet bias. More reasonably, though, it often becomes the treatment of choice because it has fewer side effects than the alternatives and the quality-of-life improvement is a better deal.&lt;/p&gt;
+
+&lt;p&gt;I’m not trying to be critical; I understand that this constant dosage escalation is a manifestation of people getting some relief from a great amount of suffering, and I wish them nothing but the best. Often, I would even agree that additional helminths are the best option they have.&lt;/p&gt;
+
+&lt;p&gt;My point is simply that there’s no good reason to defend therapeutic use of helminths that has long passed the point of evolutionary reason as paleolithic. On some level it’s obviously a bit silly it casts doubt on the therapy as a whole, thus probably turning away prospective users.&lt;/p&gt;
+
+&lt;p&gt;If you are a healthy person and are sold on the paleolithic argument for hosting helminths, I think you’d be served well by just walking around barefoot, occasionally in natural but dirty places. A strong counterargument to this would be that perhaps due to our unnaturally-sterile modern world we need to expose ourselves to an unnatural level of probiotics such as helminths, which is getting a bit reductionist, but I’m open-minded to it.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 09 Jul 2015 00:00:00 +0700</pubDate>
+        <link>http://fkacam.com/fmt,/immunity/2015/07/09/helminthic-therapy-warning.html</link>
+        <guid isPermaLink="true">http://fkacam.com/fmt,/immunity/2015/07/09/helminthic-therapy-warning.html</guid>
+        
+        
+        <category>fmt,</category>
+        
+        <category>immunity</category>
+        
+      </item>
+    
+      <item>
+        <title>Gut enterotypes and FMT</title>
+        <description>&lt;p&gt;Gut enterotypes and FMT: a brief, relevant history of blood transfusions&lt;/p&gt;
+
+&lt;p&gt;A 2011 Nature article birthed the idea of gut enterotypes
+I am skeptical of the lazy conclusions spouted by the pop-science journalists who covered Bork’s journal article, for various reasons. Many decently clever people pretty immediately proposed that the primary determinant of enterotype is likely recent diet.&lt;/p&gt;
+
+&lt;p&gt;Chimpanzees have enterotypes that are compositionally analogous to those found in humans and longitudinal sampling has found that the enterotype of individual chimpanzees varied over time.&lt;/p&gt;
+
+&lt;p&gt;Correlational studies in humans and a mass of longitudinal do-it-yourself experiments substantiate this theory.&lt;/p&gt;
+
+&lt;p&gt;However, I am open to the more general possibility that there are hard-wired or otherwise fundamental differences between our microbiomes.&lt;/p&gt;
+
+&lt;p&gt;I am myself too young to remember a time before blood types, but the history of hematology is relevant here.&lt;/p&gt;
+
+&lt;p&gt;In the early 1900s, Karl Landsteiner discovered that each person belonged to one of four blood types.&lt;/p&gt;
+
+&lt;p&gt;At least one person, a guy named Jan Jansky, independently discovered the same thing before him, but this was before the internet and distributed trustless proof-of-existence systems, so Karl got the credit.&lt;/p&gt;
+
+&lt;p&gt;Prior to this discovery and the implementation of donor matching, most blood transfusions would be rejected by the recipient’s body.&lt;/p&gt;
+
+&lt;p&gt;In the event that genetic code or formative years or another relatively cementing process determines some form of gut enterotype, then this discovery may one day retroactively explain the spotty positive and negative results of FMT today.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Jul 2015 00:00:00 +0700</pubDate>
+        <link>http://fkacam.com/fmt,/immunity/2015/07/09/gut-enterotypes-and-fmt.html</link>
+        <guid isPermaLink="true">http://fkacam.com/fmt,/immunity/2015/07/09/gut-enterotypes-and-fmt.html</guid>
+        
+        
+        <category>fmt,</category>
+        
+        <category>immunity</category>
+        
+      </item>
+    
+      <item>
+        <title>Delayed Immunomodulatory Effects of Fecal Transplant</title>
+        <description>&lt;p&gt;Many FMT patients with IBD report that they had to complete many, many infusions prior to finding relief - often more than 30 infusions.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, clinics and individuals treating C. diff often perform just a single infusion with success.&lt;/p&gt;
+
+&lt;p&gt;Personally, I performed eight infusions over a period of roughly two weeks in order to cure dysbiosis and improve immune issues and noticed immediate changes as well as gradual improvement into the future. Some of my symptoms were cured immediately, and others were cured several weeks after the cessation of infusions.&lt;/p&gt;
+
+&lt;p&gt;The facts that many IBD patients require many infusions is often explained to be caused by the resilience of bacterial colonies and biofilms, but it’s hard to reconcile that explanation with the fact that C. diff patients require far fewer infusions.&lt;/p&gt;
+
+&lt;p&gt;I theorize that it is possible that the primary difference between performing dozens of infusions and performing merely a handful of infusions is that the former takes much longer to complete, thus giving the immune system time to improve prior to the patient evaluating the efficacy of their treatment.&lt;/p&gt;
+
+&lt;p&gt;In other words, I think it’s entirely possible that performing only a minimum of infusions may be sufficient for cases of IBD. It is possible that performing 30 infusions works because the first infusion was sufficient but takes ‘one month to work its magic’, and performing the other 29 takes 29 additional days.&lt;/p&gt;
+
+&lt;p&gt;Dietary changes cause autoimmune changes over a period of weeks or months. Autoimmune-specific dietary protocols mandate that the patient try the diet for at least two weeks and often longer.&lt;/p&gt;
+
+&lt;p&gt;Studies on the effects of probiotics on the immune system (typically allergies) notice delayed action as well.&lt;/p&gt;
+
+&lt;p&gt;In the case of helminthic therapy, a parasite (or more affectionately, a co-evolved symbiotic organism) is introduced to the microbiome and matures within XXX days. Yet the benefits of helminthic therapy on the immune system are never realized until roughly three months after inoculation and many users report that improvements continue for at least more than two years.&lt;/p&gt;
+
+&lt;p&gt;(This obviously leads to questions regarding studies of helminthic therapy, which typically follow patients for 6 months at most. Some studies, for some bizarre reason, only follow patients for three months, and I expect that this set of studies tend to have pessimistic conclusions compared to longer studies.)&lt;/p&gt;
+
+&lt;p&gt;Allogenic bone marrow transplant is another relevant transplant. New blood cells which follow the transplanted marrow’s recipe don’t begin to be created until anywhere from 10 days to four weeks post-procedure. Acute Graft-versus-host disease, a complication of marrow transplants where the new immune system sees its host body as a threat and attacks it, will come two-to-five months later (if it occurs) by a typical timeline.&lt;/p&gt;
+
+&lt;p&gt;I don’t know much about how the gut and immune system interact, but nobody else does either. I think we can prudently assume that changes to the gut biome will take time to take effect and that the effects may continue to evolve for months or years post-procedure.&lt;/p&gt;
+
+&lt;p&gt;IBD is a class of conditions in which the immune system plays a starring role, and so I think this theory makes a bit of sense and helps reconcile the seemingly conflicting facts presented at the beginning of this post.&lt;/p&gt;
+
+&lt;p&gt;If you are reading this because you are investigating FMT, and you suffer from immune dysfunction which you believe may have been partially or fully caused by antibiotic use, ask yourself: how much time elapsed between the antibiotic use and the immune dysfunction?&lt;/p&gt;
+
+&lt;p&gt;Biome changes likely take a very long time to propagate.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Jul 2015 00:00:00 +0700</pubDate>
+        <link>http://fkacam.com/fmt,/immunity/2015/07/09/fmt-and-immunity.html</link>
+        <guid isPermaLink="true">http://fkacam.com/fmt,/immunity/2015/07/09/fmt-and-immunity.html</guid>
+        
+        
+        <category>fmt,</category>
+        
+        <category>immunity</category>
+        
+      </item>
+    
+  </channel>
+</rss>

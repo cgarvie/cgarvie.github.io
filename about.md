@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About
+title: /about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This website contains some of my thoughts. Mostly about startups, health and medicine, reasoning, psychology, cryptography, and netsec.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I will not exert much effort to 'write well' here as that takes too much time away from actually thinking about and doing things.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+A non-exhaustive list of reasons I blog here:
+
+- to better formulate my own thoughts
+- to meet like-minded people
+- to contribute to the sum total of humanity's knowledge and help drive discourse
