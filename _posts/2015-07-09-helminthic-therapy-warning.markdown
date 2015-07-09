@@ -2,7 +2,7 @@
 layout: post
 title:  "Helminthic Therapy User Error"
 date:   2015-07-09
-categories: FMT, Immunity
+categories: FMT Immunity
 ---
 Parasites is a loaded term and refers to a large number of species, a subset of which are not 'bad' for us for the same reason that the pop-sci good/bad bacteria terminology creates a false and dangerous dichotomy; the correct way to think about the issue is in terms of dysbiosis.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Gut Enterotypes and FMT"
 date:   2015-07-09
-categories: FMT, Immunity
+categories: FMT Immunity
 ---
 Gut enterotypes and FMT: a brief, relevant history of blood transfusions
 

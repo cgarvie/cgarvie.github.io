@@ -2,13 +2,11 @@
 layout: post
 title:  "Delayed Immunomodulatory Effects of Fecal Transplant"
 date:   2015-07-09
-categories: FMT, Immunity
+categories: FMT Immunity
 ---
 Many FMT patients with IBD report that they had to complete many, many infusions prior to finding relief - often more than 30 infusions.
 
 On the other hand, clinics and individuals treating C. diff often perform just a single infusion with success.
-
-Personally, I performed eight infusions over a period of roughly two weeks in order to cure dysbiosis and improve immune issues and noticed immediate changes as well as gradual improvement into the future. Some of my symptoms were cured immediately, and others were cured several weeks after the cessation of infusions.
 
 The facts that many IBD patients require many infusions is often explained to be caused by the resilience of bacterial colonies and biofilms, but it's hard to reconcile that explanation with the fact that C. diff patients require far fewer infusions.
 
