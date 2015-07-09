@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Gut enterotypes and FMT"
+title:  "Gut Enterotypes and FMT"
 date:   2015-07-09
 categories: FMT, Immunity
 ---
 Gut enterotypes and FMT: a brief, relevant history of blood transfusions
 
-A 2011 Nature article birthed the idea of gut enterotypes
-I am skeptical of the lazy conclusions spouted by the pop-science journalists who covered Bork's journal article, for various reasons. Many decently clever people pretty immediately proposed that the primary determinant of enterotype is likely recent diet.
+A 2011 Nature article birthed the idea of gut enterotypes. I am skeptical of the lazy conclusions spouted by the pop-science journalists who covered Bork's journal article, for various reasons. Many decently clever people pretty immediately proposed that the primary determinant of enterotype is likely recent diet.
 
 Chimpanzees have enterotypes that are compositionally analogous to those found in humans and longitudinal sampling has found that the enterotype of individual chimpanzees varied over time.
 
